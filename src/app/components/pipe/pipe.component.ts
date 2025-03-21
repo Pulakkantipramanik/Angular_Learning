@@ -36,10 +36,5 @@ export class PipeComponent {
       this.deptService.role$.subscribe((res:string)=>{
         debugger;
       })
-
-  
   }
-
-
-
 }
